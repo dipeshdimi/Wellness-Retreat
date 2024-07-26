@@ -1,11 +1,11 @@
 # Wellness Retreat [Shoonya] - [Live Deployment](https://wellness-retreat-rust.vercel.app/)
 
-![Screenshot (146)](https://github.com/user-attachments/assets/81ae4b55-8d64-47f1-807c-b5c171db12ed)
-![Screenshot (147)](https://github.com/user-attachments/assets/4985e707-1846-4338-a0aa-ace0d6801742)
-![Screenshot (144)](https://github.com/user-attachments/assets/680496ec-fcf5-49ac-97f4-6b8dc32a29da)
-![Screenshot (148)](https://github.com/user-attachments/assets/c7c06f00-54e2-4ded-91ae-d2794cd40ed8)
-
 This project is a React-based responsive web application platform for booking wellness retreats, featuring options to filter retreats by date and type, and a search functionality to find specific retreats.
+
+<img src="https://github.com/user-attachments/assets/81ae4b55-8d64-47f1-807c-b5c171db12ed" alt="Desktop Design I" />
+<img src="https://github.com/user-attachments/assets/4985e707-1846-4338-a0aa-ace0d6801742" alt="Desktop Design II" />
+<img src="https://github.com/user-attachments/assets/680496ec-fcf5-49ac-97f4-6b8dc32a29da" alt="Mobile Design I" width=49.5%/>
+<img src="https://github.com/user-attachments/assets/c7c06f00-54e2-4ded-91ae-d2794cd40ed8" alt="Mobile Design II" width=49.5%/>
 
 ## Live Demo
 
