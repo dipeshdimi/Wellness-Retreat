@@ -1,0 +1,11 @@
+.header {
+  background-color: rgb(20, 37, 87);
+  color: white;
+  padding: 1%;
+}
+
+@media (max-width: 768px) {
+    .header {
+        text-align: center;
+    }
+}

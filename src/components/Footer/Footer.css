@@ -1,0 +1,16 @@
+.footer {
+    margin: 1% 0;
+    color: rgb(43, 43, 43);
+    font-size: small;
+    text-align: center;
+}
+
+@media (max-width: 480px) {
+    .footer {
+        width: 100%;
+        position: sticky;
+        bottom: 0;
+        background-color: #fff;
+        padding: 3%;
+    }
+}
